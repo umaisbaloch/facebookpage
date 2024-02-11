@@ -1,0 +1,30 @@
+/* p{
+    color: yellow;
+}
+h1{
+    color: brown;
+}
+h2{
+    color: blue;
+}
+*{
+    background-color: aquamarine;
+} */
+
+p.para::first-letter{ font-size: 300%;}
+p.para::first-line{ font-weight: bold; }
+
+  
+
+.para{
+
+color: black;}
+
+h1{
+    color: blue;
+}
+
+H1{
+
+    color: blue;
+}
